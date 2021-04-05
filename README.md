@@ -16,3 +16,5 @@ Data source: https://usafacts.org/visualizations/coronavirus-covid-19-spread-map
   https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv
 * Global COVID recovered cases from 1/22/20 to now aggregated by country 
   https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv
+  
+More useful data sets can be found [here](https://github.com/CSSEGISandData/COVID-19)
